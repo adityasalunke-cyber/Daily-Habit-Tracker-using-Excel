@@ -61,4 +61,11 @@ Most of this project was built by experimenting, testing different ideas, and so
 - More customization options
 
 ## Preview
+![Dashboard](assets/dashboard.png)
+
+![Streaks](assets/dashboard.png)
+
+![KPI cards](assets/dashboard.png)
+
+
 
