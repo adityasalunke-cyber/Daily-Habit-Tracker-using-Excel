@@ -63,9 +63,9 @@ Most of this project was built by experimenting, testing different ideas, and so
 ## Preview
 ![Dashboard](assets/dashboard.png)
 
-![Streaks](assets/dashboard.png)
+![Streaks](assets/Streaks.png)
 
-![KPI cards](assets/dashboard.png)
+![KPI cards](assets/KPI cards.png)
 
 
 
